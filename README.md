@@ -564,8 +564,9 @@ This project demonstrates practical SQL skills commonly required for:
 
 ### Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn:https://www.linkedin.com/in/yash-prajapati-2b99392b8
+
+- GitHub: https://github.com/YashPrajapati989
 
 ---
 
