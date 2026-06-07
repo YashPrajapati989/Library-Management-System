@@ -358,9 +358,8 @@ AND (CURRENT_DATE - ist.issued_date) > 30;
 
 ---
 
-#### 14: Book Return Management
 
-```md
+
 ### Task 14: Update Book Status on Return
 
 ```sql
