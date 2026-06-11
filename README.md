@@ -545,7 +545,7 @@ Successfully designed and implemented a fully normalized Library Management Syst
 - Generating branch performance reports
 - Identifying active library members
 - Evaluating employee productivity
-- Supporting operational decision-making through SQL analytics
+- Supporting operational decision-making through SQL analytic
 
 This project demonstrates practical SQL skills commonly required for:
 
