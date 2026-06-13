@@ -482,25 +482,6 @@ HAVING MAX(ist.issued_date) < CURRENT_DATE - INTERVAL '6 months'
 
 ---
 
-## 📁 Project Structure
-
-```text
-Library-Management-System/
-│
-├── Database_Setup.sql
-├── Library_Analysis.sql
-├── Stored_Procedures.sql
-├── ERD.png
-├── README.md
-│
-└── Reports/
-    ├── Branch_Report.sql
-    ├── Revenue_Analysis.sql
-    └── Member_Analytics.sql
-```
-
----
-
 ## 🎓 Skills Demonstrated
 
 - SQL Query Optimization
