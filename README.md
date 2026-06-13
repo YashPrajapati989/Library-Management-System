@@ -77,7 +77,6 @@ Maintains returned book records.
 
 ## 🏗️ Entity Relationship Diagram (ERD)
 
-> Add your ERD image here
 
 ```text
 branch
